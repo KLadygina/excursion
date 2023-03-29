@@ -23,9 +23,18 @@ body {
     font-size: 21px;
     color: gray; 
 }
+
 /*  LINKS */
 
 .link--cta{
     font-size: 16px;
     color: aquamarine;
+}
+
+/*  Footer */
+
+.footer-copyrite{
+    font-size: 21px;
+    color:gray;
+    text-align: right;
 }
